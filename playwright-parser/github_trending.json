@@ -1,0 +1,182 @@
+[
+    {
+        "Title": "hacksider / Deep-Live-Cam",
+        "URL": "https://github.com/hacksider/Deep-Live-Cam",
+        "Description": "real time face swap and one-click video deepfake with only a single image",
+        "Language": "Python",
+        "Stars (All)": 58225,
+        "Stars (Today)": 1524,
+        "Forks": 8234,
+        "Collected Date": "2025-05-03T13:13:06.134801+03:00"
+    },
+    {
+        "Title": "aipotheosis-labs / aci",
+        "URL": "https://github.com/aipotheosis-labs/aci",
+        "Description": "ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.",
+        "Language": "Python",
+        "Stars (All)": 1624,
+        "Stars (Today)": 244,
+        "Forks": 111,
+        "Collected Date": "2025-05-03T13:13:06.214720+03:00"
+    },
+    {
+        "Title": "MODSetter / SurfSense",
+        "URL": "https://github.com/MODSetter/SurfSense",
+        "Description": "Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.",
+        "Language": "TypeScript",
+        "Stars (All)": 2060,
+        "Stars (Today)": 85,
+        "Forks": 161,
+        "Collected Date": "2025-05-03T13:13:06.214973+03:00"
+    },
+    {
+        "Title": "cloudflare / mcp-server-cloudflare",
+        "URL": "https://github.com/cloudflare/mcp-server-cloudflare",
+        "Description": "",
+        "Language": "TypeScript",
+        "Stars (All)": 1628,
+        "Stars (Today)": 69,
+        "Forks": 124,
+        "Collected Date": "2025-05-03T13:13:06.183551+03:00"
+    },
+    {
+        "Title": "wonderwhy-er / DesktopCommanderMCP",
+        "URL": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+        "Description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "Language": "TypeScript",
+        "Stars (All)": 2364,
+        "Stars (Today)": 90,
+        "Forks": 248,
+        "Collected Date": "2025-05-03T13:13:06.215106+03:00"
+    },
+    {
+        "Title": "juspay / hyperswitch",
+        "URL": "https://github.com/juspay/hyperswitch",
+        "Description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "Language": "Rust",
+        "Stars (All)": 17460,
+        "Stars (Today)": 249,
+        "Forks": 2087,
+        "Collected Date": "2025-05-03T13:13:06.215186+03:00"
+    },
+    {
+        "Title": "Atmosphere-NX / Atmosphere",
+        "URL": "https://github.com/Atmosphere-NX/Atmosphere",
+        "Description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+        "Language": "C++",
+        "Stars (All)": 15865,
+        "Stars (Today)": 47,
+        "Forks": 1269,
+        "Collected Date": "2025-05-03T13:13:06.215247+03:00"
+    },
+    {
+        "Title": "unionlabs / union",
+        "URL": "https://github.com/unionlabs/union",
+        "Description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+        "Language": "Rust",
+        "Stars (All)": 56441,
+        "Stars (Today)": 375,
+        "Forks": 2833,
+        "Collected Date": "2025-05-03T13:13:06.215305+03:00"
+    },
+    {
+        "Title": "cloudflare / agents",
+        "URL": "https://github.com/cloudflare/agents",
+        "Description": "Build and deploy AI Agents on Cloudflare",
+        "Language": "TypeScript",
+        "Stars (All)": 1830,
+        "Stars (Today)": 84,
+        "Forks": 122,
+        "Collected Date": "2025-05-03T13:13:06.215367+03:00"
+    },
+    {
+        "Title": "DiceDB / dice",
+        "URL": "https://github.com/DiceDB/dice",
+        "Description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+        "Language": "Go",
+        "Stars (All)": 10341,
+        "Stars (Today)": 21,
+        "Forks": 1362,
+        "Collected Date": "2025-05-03T13:13:06.215422+03:00"
+    },
+    {
+        "Title": "Flowseal / zapret-discord-youtube",
+        "URL": "https://github.com/Flowseal/zapret-discord-youtube",
+        "Description": "",
+        "Language": "Batchfile",
+        "Stars (All)": 12589,
+        "Stars (Today)": 34,
+        "Forks": 838,
+        "Collected Date": "2025-05-03T13:13:06.188946+03:00"
+    },
+    {
+        "Title": "QwenLM / Qwen-Agent",
+        "URL": "https://github.com/QwenLM/Qwen-Agent",
+        "Description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+        "Language": "Python",
+        "Stars (All)": 7770,
+        "Stars (Today)": 192,
+        "Forks": 660,
+        "Collected Date": "2025-05-03T13:13:06.215478+03:00"
+    },
+    {
+        "Title": "donnemartin / system-design-primer",
+        "URL": "https://github.com/donnemartin/system-design-primer",
+        "Description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "Language": "Python",
+        "Stars (All)": 297868,
+        "Stars (Today)": 122,
+        "Forks": 49501,
+        "Collected Date": "2025-05-03T13:13:06.215535+03:00"
+    },
+    {
+        "Title": "open-webui / open-webui",
+        "URL": "https://github.com/open-webui/open-webui",
+        "Description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+        "Language": "JavaScript",
+        "Stars (All)": 92903,
+        "Stars (Today)": 376,
+        "Forks": 11768,
+        "Collected Date": "2025-05-03T13:13:06.215589+03:00"
+    },
+    {
+        "Title": "langwatch / langwatch",
+        "URL": "https://github.com/langwatch/langwatch",
+        "Description": "The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨",
+        "Language": "TypeScript",
+        "Stars (All)": 1742,
+        "Stars (Today)": 67,
+        "Forks": 130,
+        "Collected Date": "2025-05-03T13:13:06.215643+03:00"
+    },
+    {
+        "Title": "bitcoin / bitcoin",
+        "URL": "https://github.com/bitcoin/bitcoin",
+        "Description": "Bitcoin Core integration/staging tree",
+        "Language": "C++",
+        "Stars (All)": 83324,
+        "Stars (Today)": 36,
+        "Forks": 37162,
+        "Collected Date": "2025-05-03T13:13:06.215683+03:00"
+    },
+    {
+        "Title": "aws / aws-sdk-java-v2",
+        "URL": "https://github.com/aws/aws-sdk-java-v2",
+        "Description": "The official AWS SDK for Java - Version 2",
+        "Language": "Java",
+        "Stars (All)": 2350,
+        "Stars (Today)": 15,
+        "Forks": 904,
+        "Collected Date": "2025-05-03T13:13:06.216601+03:00"
+    },
+    {
+        "Title": "TheRobotStudio / SO-ARM100",
+        "URL": "https://github.com/TheRobotStudio/SO-ARM100",
+        "Description": "Standard Open Arm 100",
+        "Language": "CMake",
+        "Stars (All)": 1852,
+        "Stars (Today)": 83,
+        "Forks": 120,
+        "Collected Date": "2025-05-03T13:13:06.218525+03:00"
+    }
+]
